@@ -1,4 +1,4 @@
 .DS_Store
-.gitattributes
+.gitignore
 multiinput_deep_learner/.ipynb_checkpoints
 
